@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ad6ecaf1bd9f5ea65732e7b2",
+  "owner": "jxedmwqn",
+  "repo": "page-889b5d63d6c77bffec779e46",
+  "title": "锂云网络(Liuns)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "889b5d63d6c77bffec779e46",
+      "a": "锂云网络(Liuns)",
+      "b": "2027最新官网",
+      "entity": "锂云网络(Liuns)",
+      "brand": "锂云网络(Liuns)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1ccd837079d2bae3414561a61c22d731b8537ce06e454cd8a70c139a353b663c",
+      "content": {
+        "primary_entity": "锂云网络(Liuns)",
+        "keyword1": "锂云网络(Liuns)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可连接使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，即可开始稳定加速体验。",
+          "AI_CLOSING_TITLE": "开启锂云网络加速",
+          "AI_DESCRIPTION": "，提供多种订阅方案，覆盖日常浏览、流媒体与游戏加速需求。基础版适合个人轻量使用，旗舰版支持多设备同时在线与专线优化，团队版面向多人协作与高带宽场景。可根据设备数量与流量需求灵活选择月度或年度订阅，客户端覆盖常见桌面与移动平台。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度了解锂云网络。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合单人，旗舰版300GB支持5台设备，团队版1000GB满足多人共享。",
+          "AI_FEATURE_TEXT_2": "年度订阅价格更优，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。",
+          "AI_FEATURE_TEXT_3": "按设备系统选择对应客户端，导入订阅后即可同步使用。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "多端客户端适配",
+          "AI_GUIDE_INTRO": "三步完成从选择到连接的使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "锂云网络提供多种海外加速订阅方案，覆盖基础浏览、流媒体解锁与游戏专线优化。根据设备数量与流量需求选择套餐，配合对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "稳定加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "多档套餐满足不同流量需求",
+          "AI_HIGHLIGHT_2": "年度订阅更划算",
+          "AI_HIGHLIGHT_3": "客户端覆盖常见平台",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数量和线路品质上逐级提升，可按使用场景选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常使用人数和所需流量，从基础版、旗舰版或团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备数量不超过套餐上限，并核对所需平台是否在客户端支持列表中。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入说明完成配置，连接节点即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "锂云网络加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_1": "打开所选客户端，找到订阅或配置导入入口，粘贴订阅链接并保存，客户端会自动获取节点信息。",
+          "AI_FAQ_QUESTION_2": "套餐可以升级或降级吗？",
+          "AI_FAQ_ANSWER_2": "通常支持在计费周期内调整套餐，具体规则以购买后的账户管理界面说明为准。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付¥150相当于省¥30，旗舰版¥350省¥70，团队版¥850省¥170。",
+          "AI_FAQ_QUESTION_4": "设备数量超出限制怎么办？",
+          "AI_FAQ_ANSWER_4": "如果同时在线设备数接近上限，可考虑升级到更高档位套餐，或减少同时连接的设备数量。",
+          "AI_FAQ_QUESTION_5": "支持哪些操作系统？",
+          "AI_FAQ_ANSWER_5": "常见桌面和移动系统均有对应客户端可选，具体兼容列表请参考客户端文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "webstep.cn",
+    "host": "webstep.cn"
+  },
+  "file_hashes": {
+    "index.html": "7e3b2fb38048fa04cbc2dfede1d249b7cad3a39da48520d7969451d2d69d9a5d",
+    "sitemap.xml": "7978f9c99157b5992e0c4b734044d1bdce471b5c9703147b87a4dc181bb53321",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "28bf645604259612e60923228f8d35438dc3193ccff676e65e535b376824348f",
+    "robots.txt": "5c487c3e0e73d029e2211dc00ef34820941ddd6c4f4e7dd4a38fe1103bb161ff",
+    "20dad1d121cf73e5b7b1ec44564c530e.txt": "b60694be32c2cd3dc677d7bcdeb83b16862e17f9c53a37feff56667aa947c5a4"
+  },
+  "revision": "cc3019ac4336e2b7a533a8f1ac396a214a524c1b994dc68e74aeafd89fca095f"
+}
